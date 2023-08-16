@@ -25,7 +25,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders.
 
 **Following is what you need for this book:**
 Beginner or intermediate designers who prefer hands-on learning will find this book useful, especially designers, woodworkers, 3D printing enthusiasts, and hobbyists who enjoy creating things, rather than experienced machinists. The basic projects are accessible without prior CAD skills, although some fundamental CAD understanding is beneficial for those interested in going further. It is highly recommended that you use a 3-button mouse for all projects to fully utilize floating pop-up menus.
